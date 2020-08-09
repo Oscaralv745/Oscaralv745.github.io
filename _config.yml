@@ -1,11 +1,11 @@
 # Site settings
 author: Oscar Alvarez
-title: 
+title: Oscar Alvarez's Blog
 header-img: img/home-bg.png
 email: gavinalv6@gmail.com
 copyright_name: Oscar Alvarez
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Oscar's Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Oscaralv745
